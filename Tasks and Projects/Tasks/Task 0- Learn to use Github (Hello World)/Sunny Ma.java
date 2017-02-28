@@ -1,9 +1,10 @@
 
 public class Sunny_Ma {
-
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-       System.out.print("SSR");
+		String name = "Sunny Ma";
+		int className = 23;
+		System.out.println("I am " + name + " in class "+ className);
+		System.out.print("Hello World!");
 	}
 
 }
