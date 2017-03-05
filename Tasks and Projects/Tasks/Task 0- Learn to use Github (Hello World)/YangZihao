@@ -1,0 +1,9 @@
+
+public class ITCkubDemo {
+	public static void main(String[] args) {
+		String name = "YangZihao";
+		int className = 5;
+		System.out.println("I am " + name + " in class "+ className);
+		System.out.print("Hello World!");
+	}
+}
