@@ -1,0 +1,11 @@
+public class ITCkubDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+       String name = "Yu Chengze"; //
+       int classNum = 23; //
+       System.out.println("I am Charlie Yu in class 23");
+       System.out.print("Hello World!");
+	}
+
+}
