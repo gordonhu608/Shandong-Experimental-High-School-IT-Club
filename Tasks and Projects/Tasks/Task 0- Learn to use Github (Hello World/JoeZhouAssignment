@@ -1,0 +1,22 @@
+public class practiceOne {
+	public static void main(String[] args){
+		Student joeZhou = new Student();
+		String name = joeZhou.getMyName();
+		String classes = joeZhou.getMyClass();
+		// For avoid key word class.
+		System.out.println("I am "+ name + " in class "+ classes);
+	}
+}
+class Student{
+	Student(){
+	}
+
+	public String getMyName(){
+		String i  = "JoeZhou";
+		return i;
+	}
+	public String getMyClass(){
+		String i  = "S1C2";
+		return i;
+	}
+}
