@@ -15,18 +15,22 @@ System.out.println();
 
 And the result will be:
 
+```
 *
 **
 ***
 ****
 ****
+```
 
 ### This time, you are going to change the code above and make the output like this:
 
+```
 ****
 ***
 **
 *
+```
 
 ### Submit your work by clicking Create New File at the top of this page. 
     REMEMBER TO PUSH A MERGE REQUEST AFTER SUBMITTING YOUR CODE!
