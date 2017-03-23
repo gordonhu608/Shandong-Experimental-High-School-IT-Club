@@ -1,35 +1,15 @@
-##Assignment No. 03
+##Assignment No. 04
 Editor: Shunzhe Ma
 
-This time, you'll learn to write codes in Java that can print out stars. In the example showed in classes, we write the following codes: 
+You learned how to use IF-ELSE statement to determine whether a condition is met or not. And you should already know you could add codes that will be executed if the conditions are met. So now, you need to write codes about IF-ELSE statement by yourself to determine if 6 is larger than 3 or not.
+
 ```Java
 public static void main(String[] args) {
-for (int i = 1; i <= 5; ++i) {
-for (int n = 1; n <= i; ++n) {
-System.out.print('*');
+      int num1 = 3;
+      int num2 = 6;
+      //Replace your own code here
+      //Print (System.out.print) "num 1 is larger" or "num 2 is larger"
 }
-System.out.println();
-}
-}
-```
-
-And the result will be:
-
-```
-*
-**
-***
-****
-****
-```
-
-### This time, you are going to change the code above and make the output like this:
-
-```
-****
-***
-**
-*
 ```
 
 ### Submit your work by clicking Create New File at the top of this page. 
