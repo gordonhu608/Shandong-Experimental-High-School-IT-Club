@@ -3,7 +3,7 @@
    The purpose of the IT Club is to make everyone feel the magic of computer programming that we can use it to solve real-life problems. We learn some new technologies like cloud computing and big data, and we made an app to score the beauty of your face from 1 to 10 using these techniques. We use Adobe's software to make our 3D movies and perfect them. All in all, in this club, I guide them and give them ideas, and they are in groups that they can try to do these things by themselves. IT Club makes me learn how to organize lectures, how to make your audience feel interested and also it inspires all the people who are enjoying it and me.
    
    @IT Club is founded by Shunzhe Ma
-; managed by Shunzhe Ma and Ziyao Zhang, with all other 41 club members.
+; managed by Shunzhe Ma with all other 41 club members.
    
 ![Alt text](https://raw.githubusercontent.com/shunzhema/Shandong-Experimental-High-School-IT-Club/master/IMG_1993.JPG "IT Club Members")
 
@@ -18,8 +18,8 @@
 | How to use Github to work with a team?  | February 28th, 2017  | Github is a really powerful tool used by a large number of developers worldwide to help them develop applications. But we can also use it to do our small programmings. In this session, Shunzhe Ma is going to tell you how to upload a file, edit a file, make suggestions to others' files, and how to open an issue. [Learn the way to get started](https://github.com/shunzhema/Shandong-Experimental-High-School-IT-Club/blob/master/Tasks%20and%20Projects/Tasks/Task%200-%20Learn%20to%20use%20Github%20(Hello%20World)/README.md) | Not Received Any Yet |  Shunzhe Ma |
 | Ask your Questions and answer others'  | Online Assign due after 3 days (February 28th, 2017)  | It's really important that everyone ask what you don't know or what you want to know. The issue section in Github is really useful for us. Everyone can ask their own questions and answer others' | Pending... |  Shunzhe Ma with 42 others |
 |  IF- ELSE Statement in Java | March 7th, 2017 | Pending... | Pending... | Shunzhe Ma |
-|  Loops in Java | March 7th, 2017 | Pending... | Assignment requested! Submit your work at [Club members' work](https://github.com/shunzhema/Shandong-Experimental-High-School-IT-Club/blob/master/Tasks%20and%20Projects/Tasks/Task%203%20-%20Printing%20Stars%20(Loop)) | Ziyao Zhang |
-| #Upcoming# Banking System (If-Else statement, Classes)  | February 28th, 2017  | The description of this course is coming soon. [Templete File](https://github.com/shunzhema/Shandong-Experimental-High-School-IT-Club/blob/master/*%20Example%20Files%20by%20Shunzhe%20Ma/BankingSyS.java) | Coming Soon... |  Shunzhe Ma |
+|  Classes in Java | March 21th, 2017 | Pending... | Pending... | Shunzhe Ma |
+| Banking System (If-Else statement, Classes)  | March 21th, 2017  | The description of this course is coming soon. [Templete File](https://github.com/shunzhema/Shandong-Experimental-High-School-IT-Club/blob/master/*%20Example%20Files%20by%20Shunzhe%20Ma/BankingSyS.java) | Coming Soon... |  Shunzhe Ma |
 
 
 
