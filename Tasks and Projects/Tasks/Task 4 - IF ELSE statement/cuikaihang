@@ -1,0 +1,18 @@
+
+public class s {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+          int NO1=123;
+          int NO2=234;
+	      if(NO2<NO1)
+	      {
+	    	   System.out.println(NO1 +" is bigger than "+NO2);
+	      }
+	    	else
+	      {
+	    	   System.out.println(NO1+ " is smaller than "+NO2);
+	      }
+	}
+
+}
