@@ -1,0 +1,15 @@
+public static void main(String[] args) {
+	
+	      int num1 = 3;
+	      int num2 = 6;
+	      
+	if (num1 > num2)
+	  {
+	     System.out.println("num1 is larger");
+	  }
+	else
+	  {
+	     System.out.println("num 1 is larger");
+	  }
+	  
+	}
